@@ -24,15 +24,18 @@ The Amazon Fine Food Reviews dataset consists of reviews of fine foods from Amaz
 * Summary - brief summary of the review
 * Text - text of the review
 # Outcomes
-* Learnt how to do Sentiment analysis.
-* Learnt how to apply concepts Like Bag of Words, Tfidf and Wor2Vec.
-* Learnt how to do Text Preprocessing.
-* Learnt various Supervised Learning Techniques like (Logstics Regression, SVM's, Decision Trees, GBDT's, RF's, AdaBoost etc)
-* Learnt how to perform Dimensionality Reduction.
-* Learnt how to handle large dimensional Data.
-* Learnt about the curse of dimensionality problem.
-* Performed Clustering by removing the labels from the dataset.
-* Generated Cooccurance Matrix and Applied Matrix Factorization.
-* Finally Learnt what works best in what situation. (Like Logistics Regression works well when dimensionality is high).
-# Conclusions :
+Learnt performing 
+* Exploratory data analysis
+* T-sne 
+* Sentiment analysis
+* Featurizations such as Bag of Words, Tfidf and Wor2Vec and text processing.
+ML Algorithms Used:
+* KNN
+* Naive Bayes
+* Logistic Regression
+* Support Vector Machine
+* Decision Tree
+* Random Forest and XGBoost
+
+
 An Enlightening Introduction to Machine Learning providing skills to work on future projects

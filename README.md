@@ -29,7 +29,7 @@ Learnt performing
 * T-sne 
 * Sentiment analysis
 * Featurizations such as Bag of Words, Tfidf and Wor2Vec and text processing.
-ML Algorithms Used:
+## ML Algorithms Used:
 * KNN
 * Naive Bayes
 * Logistic Regression
